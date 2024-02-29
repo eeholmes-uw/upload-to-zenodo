@@ -5,15 +5,34 @@
   "codeRepository": "https://github.com/megasanjay/upload-to-zenodo",
   "dateCreated": "2022-06-07",
   "datePublished": "2022-06-07",
-  "dateModified": "2022-08-30",
+  "dateModified": "2024-02-29",
   "issueTracker": "https://github.com/megasanjay/upload-to-zenodo/issues",
   "name": "Upload to Zenodo",
-  "version": "2.0.1",
+  "version": {
+    "options": {},
+    "loose": false,
+    "includePrerelease": false,
+    "raw": "2.0.0",
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": [],
+    "build": [],
+    "version": "2.0.0"
+  },
   "description": "A GitHub action to automatically push a release to Zenodo",
   "applicationCategory": "Scientific",
-  "keywords": ["GitHub"],
-  "programmingLanguage": ["JavaScript"],
-  "operatingSystem": ["Windows 11", "Big Sur (macOS 11)", "Ubuntu"],
+  "keywords": [
+    "GitHub"
+  ],
+  "programmingLanguage": [
+    "JavaScript"
+  ],
+  "operatingSystem": [
+    "Windows 11",
+    "Big Sur (macOS 11)",
+    "Ubuntu"
+  ],
   "author": [
     {
       "@type": "Person",
@@ -25,6 +44,5 @@
         "name": "FAIR Data Innovations Hub"
       }
     }
-  ],
-  "identifier": "https://doi.org/10.5281/zenodo.7036310"
+  ]
 }
