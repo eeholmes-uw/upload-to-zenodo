@@ -1,7 +1,7 @@
 {
   "upload_type": "software",
   "title": "Upload to Zenodo",
-  "publication_date": "2022-06-07",
+  "publication_date": "2024-02-29",
   "creators": [
     {
       "name": "Soundarajan, Sanjay",
@@ -11,7 +11,20 @@
   "description": "A GitHub action to automatically push a release to Zenodo",
   "access_right": "open",
   "license": "Apache-2.0",
-  "keywords": ["GitHub"],
+  "keywords": [
+    "GitHub"
+  ],
   "language": "eng",
-  "version": "2.0.1"
+  "version": {
+    "options": {},
+    "loose": false,
+    "includePrerelease": false,
+    "raw": "2.0.0",
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "prerelease": [],
+    "build": [],
+    "version": "2.0.0"
+  }
 }
